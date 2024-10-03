@@ -59,16 +59,19 @@ element.style {
 }
 .big_card{
     height: 750px;
-    width: 1200px !important;
+    width: 1400px !important;
     display: flex;
     justify-content: center;
     align-items: center;
     
 
 }
+.card-img-top{
+height: 250px;
+}
 .big_card img{
     height: 600px;
-    width: 500px;
+    width: 520px;
    
 }
 .text-body-secondary {
@@ -97,7 +100,7 @@ element.style {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
+} 
 
 .explore_part{
     height: 500px;
