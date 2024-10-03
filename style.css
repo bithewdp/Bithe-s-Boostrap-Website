@@ -74,6 +74,9 @@ height: 250px;
     width: 520px;
    
 }
+.img-fluid {
+    height: 200px;
+}
 .text-body-secondary {
 
     color: rgba(0, 0, 255, 0.997)!important;
